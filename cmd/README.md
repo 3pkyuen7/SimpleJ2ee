@@ -18,4 +18,4 @@ make a war file and deploy to glassfish step by step<br>
 7. stop-domain.cmd<br>
   when you want to stop<br>
 8. undeploy-all.cmd<br>
-  delete all to auto-deployed project from glassfish auto-deploy<br>
+  delete all auto-deployed projects from glassfish auto-deploy<br>
