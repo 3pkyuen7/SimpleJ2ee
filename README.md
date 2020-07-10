@@ -8,7 +8,7 @@ make a war file and deploy to glassfish step by step<br>
 2. compile.cmd<br>
   compile <b>src/java</b> using lib downloaded to <b>bin</b><br>
 3. copy-to-war.cmd<br>
-  move all compiled code to war folder<br>
+  move all compiled code to <b>war</b> folder<br>
 4. create-war.cmd<br>
   package compiled code to a war file<br>
 5. deploy.cmd<br>
