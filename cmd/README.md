@@ -8,11 +8,11 @@ make a war file and deploy to glassfish step by step<br>
 2. compile.cmd<br>
   compile <b>src/java</b> using lib downloaded to <b>bin</b><br>
 3. copy-to-war.cmd<br>
-  move all compiled code to <b>war</b> folder<br>
+  copy all compiled code to <b>war</b> folder<br>
 4. create-war.cmd<br>
   package compiled code to a war file<br>
 5. deploy.cmd<br>
-  move war file to glassfish auto-deploy folder<br>
+  copy war file to glassfish auto-deploy folder<br>
 6. start-domain.cmd<br>
   the project is launched, go to http://127.0.0.1:8080/yourprojectname/ to test your project<br>
 7. stop-domain.cmd<br>
