@@ -3,7 +3,7 @@ make a war file and deploy to glassfish step by step<br>
 1. create-folder.cmd<br>
   put java code to <b>src/java</b> for example SampleServlet.java<br>
   put html code to <b>src/other</b> for example index.html<br>
-  download and put needed lib to <b>lib</b> for example javax.servlet.jar form https://download.oracle.com/otndocs/jcp/servlet-3.0-fr-eval-oth-JSpec/<br>
+  download and put needed lib to <b>lib</b> for example javax.servlet.jar from https://download.oracle.com/otndocs/jcp/servlet-3.0-fr-eval-oth-JSpec/<br>
   <b>bin</b> stores the compiled code<br>
 2. compile.cmd<br>
   compile <b>src/java</b> using lib downloaded to <b>bin</b><br>
