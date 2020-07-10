@@ -1,0 +1,1 @@
+copy *.war D:\Tools\glassfish-4.1.1\glassfish\domains\domain1\autodeploy
