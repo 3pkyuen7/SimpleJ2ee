@@ -1,4 +1,3 @@
-"# SimpleJ2ee" 
 remember to edit the cmd file related to glassfish path
 make a war file and deploy to glassfish step by step
 1. create-folder.cmd
