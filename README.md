@@ -16,6 +16,6 @@ make a war file and deploy to glassfish step by step<br>
 6. start-domain.cmd<br>
   the project is launched, go to http://127.0.0.1:8080/yourprojectname/ to test your project<br>
 7. stop-domain.cmd<br>
-  when you wamt to stop<br>
+  when you want to stop<br>
 8. undeploy-all.cmd<br>
   delete all to auto-deployed project from glassfish auto-deploy<br>
